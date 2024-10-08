@@ -6,8 +6,7 @@ This project focuses on cleaning and transforming a payment transaction dataset 
 
 Objective:
 
-•	Clean the dataset by resolving missing values, standardizing text, and converting data types.
-•	Derive insights like top-performing cities, total revenue, and transaction trends.
+Clean the dataset by resolving missing values, standardizing text, and converting data types.Derive insights like top-performing cities, total revenue, and transaction trends.
 
 Conclusion:
 
